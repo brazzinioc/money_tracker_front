@@ -25,7 +25,6 @@ function disableSelects() {
     btnSave.disabled = true;
 }
 
-
 addEventListener('DOMContentLoaded', async () => {
 
     disableSelects();
