@@ -1,0 +1,1 @@
+[![Upload website to S3](https://github.com/brazzinioc/money_tracker_front/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/brazzinioc/money_tracker_front/actions/workflows/main.yml)
