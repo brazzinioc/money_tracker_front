@@ -87,7 +87,6 @@ sltCategory.addEventListener('change', async () => {
     }
 
     sltSubCategory.disabled = false;
-
     slcMovementType.disabled = false;
 });
 
